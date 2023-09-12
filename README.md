@@ -7,6 +7,16 @@
 
 - 📫 How to reach me **adrian.schober1970@gmail.com**
 
+**My projects from bootcamp**
+<ul>
+  <li>
+    <a href="https://github.com/MatheusHubert/rbnb" target="_blank"><RBnB></a>: An airbnb clone
+  </li>
+  <li>
+    <a href="https://github.com/SleepyKingBob/WorkSmart" target="_blank"><WorkSmart></a>: A Project Management app
+  </li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/adrian schober" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrian schober" height="30" width="40" /></a>
