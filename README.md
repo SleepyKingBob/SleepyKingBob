@@ -10,7 +10,7 @@
 **My projects from bootcamp**
 <ul>
   <li>
-    <a href="https://github.com/MatheusHubert/rbnb" target="_blank">RBnB</a>: An airbnb clone
+    <a href="https://github.com/MatheusHubert/Car-rental" target="_blank">Car Rental</a>: An airbnb clone
   </li>
   <li>
     <a href="https://github.com/SleepyKingBob/WorkSmart" target="_blank">WorkSmart</a>: A Project Management app
